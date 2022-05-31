@@ -130,7 +130,7 @@ dataset: [Titanic dataset](http://www.kaggle.com/c/titanic-gettingStarted/data).
     
 <font face='Arial Narrow'>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La visión con la que estuvo encarado este trabajo fue la de poder tener multiples features de entrenamiento, tener multiples modelos de ensamble y poseer una métrica en común para evaluar; ya que si fuese necesario, se podría armar un modelo de ensamble, para que las decisiones finales se hagan por votación de algunos de los 8 modelos recién vistos.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La visión con la que estuvo encarado este trabajo fue la de poder tener multiples features de entrenamiento, tener multiples modelos de ensamble y poseer una métrica en común para compararlos; ya que, de ser necesario, se podría armar un modelo de ensamble para que las decisiones finales se hagan por votación entre los 8 modelos mostrados.
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En la tabla que van a ver a continuación, están los "scores" durante una pasada de **5** corridas del código. La métrica para evaluar los modelos es la **exactitud** de las predicciones. Esa métrica representa la proporción de casos correctamente predichos, sobre el total de casos analizados. Se pueden ver los scores para "Train" y para "Eval" por cada corrida, siempre predomina el modelo que tenga mejor score en Eval. 
     
