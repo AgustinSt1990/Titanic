@@ -23,7 +23,7 @@ dataset: [Titanic dataset](http://www.kaggle.com/c/titanic-gettingStarted/data).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En este laboratorio vamos a trabajar con el dataset del trasatlántico más famoso. Los datos son una lista de pasajeros que abordaron **El Titanic**. El objetivo es predecir una columna del dataset llamada "Survived", que indica si la persona ha sobrevivido (1) o no (0) al naufragio - variable categórica binaria -.
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proceso llevado a cabo para dicho objetivo será la implementación técnica de múltiples temas relacionados a **Machine Learning**. La dirección está centrada en poder automatizar la mayor parte de las actividades que ejecutará el código a través de las herramientas vistas de **"Programación orientada a objetos"**. La intensión se basa en que **"los datos se ajusten al modelo, y no el modelo a los datos"** aunque este dataset no vaya a tener actualizaciones en el futuro, por cuestiones didácticas se apunta a eso.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proceso llevado a cabo para dicho objetivo será la implementación técnica de múltiples temas relacionados a **Machine Learning**. La dirección está centrada en poder automatizar la mayor parte de las actividades que ejecutará el código a través de las herramientas vistas de **"Programación orientada a objetos"**. La intención se basa en que **"los datos se ajusten al modelo, y no el modelo a los datos"** aunque este dataset no vaya a tener actualizaciones en el futuro, por cuestiones didácticas se apunta a eso.
 
   
     
