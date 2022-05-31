@@ -7,6 +7,8 @@ Acceso al código: https://github.com/AgustinSt1990/Titanic/blob/main/CV_Desafio
 
 -------
     
+![DATA SCIENCE 2](https://user-images.githubusercontent.com/95892143/171273667-a370cf8a-d3b5-4d30-87ee-450e1dae1ab4.png)
+
 # LABORATORIO: 
 
 # <u>Pipelines y Transformadores + Arboles de decisión CART + Modelos de ensamble</u>
