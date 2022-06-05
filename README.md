@@ -54,10 +54,9 @@ dataset: [Titanic dataset](http://www.kaggle.com/c/titanic-gettingStarted/data).
 
 ## <u>Indice de la notebook</u>
 
-*(Los links funcionan descargando el .rar y corriendolo en jupyter lab)*  
 
 
-- [<font color='DodgerBlue' face='Arial Narrow'><b>PARTE 1.1: <u>PREPROCESAMIENTO DEL DATASET</u></b></font>](#p1)
+- <font color='DodgerBlue' face='Arial Narrow'><b>PARTE 1.1: <u>PREPROCESAMIENTO DEL DATASET</u></b></font>
 <font face='Arial Narrow'>
     
     - (1.1) EXPLORACION DATASET 
@@ -71,7 +70,7 @@ dataset: [Titanic dataset](http://www.kaggle.com/c/titanic-gettingStarted/data).
 
 
 
-- [<font color='DodgerBlue' face='Arial Narrow'><b>PARTE 1.2: <u>FEATURES ENGINEERING, PRIMERAS METRICAS</u></b></font>](#p11)
+- <font color='DodgerBlue' face='Arial Narrow'><b>PARTE 1.2: <u>FEATURES ENGINEERING, PRIMERAS METRICAS</u></b></font>
 <font face='Arial Narrow'>
     
     - (1.5) CONSTRUCCION DE TRANSFORMADORES 2 
@@ -87,7 +86,7 @@ dataset: [Titanic dataset](http://www.kaggle.com/c/titanic-gettingStarted/data).
   
 
 
-- [<font color='DodgerBlue' face='Arial Narrow'><b>PARTE 2: <u>CART: Arboles de Decisión</u></b></font>](#p2)
+- <font color='DodgerBlue' face='Arial Narrow'><b>PARTE 2: <u>CART: Arboles de Decisión</u></b></font>
 <font face='Arial Narrow'>
     
     - (2.1) INSTANCIACION DE LOS MODELOS 
@@ -99,7 +98,7 @@ dataset: [Titanic dataset](http://www.kaggle.com/c/titanic-gettingStarted/data).
 
 
 
-- [<font color='DodgerBlue' face='Arial Narrow'><b>PARTE 3: <u>MODELOS DE ENSAMBLE</u></b></font>](#p3)
+- <font color='DodgerBlue' face='Arial Narrow'><b>PARTE 3: <u>MODELOS DE ENSAMBLE</u></b></font>
 <font face='Arial Narrow'>
 
     - (3.1) RANDOM FOREST
@@ -111,7 +110,7 @@ dataset: [Titanic dataset](http://www.kaggle.com/c/titanic-gettingStarted/data).
   
 
 
-- [<font color='DodgerBlue' face='Arial Narrow'><b>PARTE 4: <u>CONCLUSIONES</u></b></font>](#p4)
+- <font color='DodgerBlue' face='Arial Narrow'><b>PARTE 4: <u>CONCLUSIONES</u></b></font>
 <font face='Arial Narrow'>
 
     - (4.1) CONCLUSIONES
