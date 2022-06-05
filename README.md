@@ -54,7 +54,7 @@ dataset: [Titanic dataset](http://www.kaggle.com/c/titanic-gettingStarted/data).
 
 ## <u>Indice de la notebook</u>
 
-*(El índice tiene links en Jupyter Notebook)*  
+*(Los links funcionan descargando el .rar y corriendolo en jupyter lab)*  
 
 
 - [<font color='DodgerBlue' face='Arial Narrow'><b>PARTE 1.1: <u>PREPROCESAMIENTO DEL DATASET</u></b></font>](#p1)
